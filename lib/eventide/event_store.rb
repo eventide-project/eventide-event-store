@@ -1,1 +1,2 @@
-require 'event_store/entity_store'
+require 'entity_store'
+require 'messaging/event_store'

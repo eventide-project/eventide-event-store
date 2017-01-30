@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name = 'eventide-event_store'
-  s.version = '0.1.0.0'
+  s.version = '0.2.0.0.pre1'
   s.summary = 'EventStore libraries'
   s.description = 'Event-Oriented Autonomous Services Toolkit'
 

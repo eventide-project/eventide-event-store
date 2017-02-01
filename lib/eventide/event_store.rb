@@ -1,2 +1,3 @@
 require 'entity_store'
-require 'messaging/event_store'
+require 'consumer/event_store'
+require 'process_host'

@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'evt-entity_store'
   s.add_runtime_dependency 'evt-consumer-event_store'
+  s.add_runtime_dependency 'evt-process_host'
 end

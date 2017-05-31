@@ -1,3 +1,3 @@
 require 'entity_store'
 require 'consumer/event_store'
-require 'process_host'
+require 'entity_snapshot/event_store'

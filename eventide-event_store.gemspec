@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.name = 'eventide-event_store'
   s.version = '0.3.0.2'
   s.summary = 'EventStore libraries'
-  s.description = 'Event-Oriented Autonomous Services Toolkit'
+  s.description = 'Event-Sourced Autonomous Services Toolkit'
 
   s.authors = ['The Eventide Project']
   s.email = 'opensource@eventide-project.org'

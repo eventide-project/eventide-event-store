@@ -2,10 +2,8 @@
 
 Event-Sourced Autonomous Services Toolkit
 
-## License
+## Commercial Use
 
-The `eventide-event_store` library is released under the [MIT License](https://github.com/eventide-project/eventide-event_store/blob/master/MIT-License.txt).
+The EventStore implementation of the Eventide toolkit is available as a commercial offering.
 
-## Documentation
-
-See the [Eventide documentation site](http://docs.eventide-project.org) for more information, examples, and user guides.
+For more information, see: [http://docs.eventide-project.org/setup/eventstore.html](http://docs.eventide-project.org/setup/eventstore.html)
